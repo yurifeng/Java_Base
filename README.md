@@ -1,3 +1,2 @@
 # Java_Base
-Java Program Elementary
-JavaSE Notes
+Java Program Elementary Notes
